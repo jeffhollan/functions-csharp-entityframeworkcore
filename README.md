@@ -1,3 +1,7 @@
+# Interested in .NET 5?
+
+Link to a sample using Entity Framework 5 in Azure Functions: https://github.com/jeffhollan/functions-net5-entityframework
+
 # .NET Core Entity Framework and functions
 
 C# Function that uses dependency injection and entity framework core with Azure SQL.  A few things of note:
